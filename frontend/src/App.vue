@@ -1,7 +1,7 @@
 <script lang="ts" setup>
-import { Button } from '@/components/ui/button';
+import MainLayout from '@/layouts/MainLayout.vue'
 </script>
 
 <template>
-  <Button>HELLO</Button>
+  <MainLayout />
 </template>
